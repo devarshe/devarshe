@@ -11,9 +11,9 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - **Tools**: Excel, Jupyter, Git , Colab
 
 ## Projects
-- [TLC NYC Dataset Analysis](https://github.com/RijzX10/Data-Analytics-Portfolio/blob/master/NYC_TLC_Project.ipynb)
-- [Uber Data Analysis Project](https://github.com/<your-username>/Uber-Data-Analysis)
-- [Cafe Shop Sales Analysis](https://github.com/RijzX10/Data-Analytics-Portfolio/blob/master/cafe%20shop%20MS%20SQL%20code.sql)
+- [TLC NYC Dataset Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/NYC_TLC_Project.ipynb)
+- [Uber Data Analysis Project](https://github.com/devarshe/UBER/blob/main/Uber%20project%20Gaurav.ipynb)
+- [Cafe Shop Sales Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/cafe%20shop%20MS%20SQL%20code.sql)
 
 ## Contact Me
 - 📧 Email: devarsheegaurav@gmail.com
