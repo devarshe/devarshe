@@ -7,7 +7,7 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 ## Skills
 - **Programming Languages**: Python, SQL , Azure , AWS , Pyspark
 - **Data Analysis**: Pandas, NumPy, Data Wrangling
-- **Data Visualization**: Matplotlib, Seaborn, Power BI
+- **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
 - **Tools**: Excel, Jupyter, Git , Colab
 - **Cloud Platforms**: AWS (Amazon Web Services), Snowflake
 - **ETL Tools**: AWS Glue, Apache Airflow, DBT (Data Build Tool)
