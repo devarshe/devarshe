@@ -5,10 +5,16 @@ I'm a passionate Data Analyst with expertise in Python (Pandas, NumPy, Matplotli
 Expanding my expertise in Machine Learning models and Azure Cloud.
 
 ## Skills
-- **Programming Languages**: Python, SQL , Azure , AWS
+- **Programming Languages**: Python, SQL , Azure , AWS , Pyspark
 - **Data Analysis**: Pandas, NumPy, Data Wrangling
 - **Data Visualization**: Matplotlib, Seaborn, Power BI
 - **Tools**: Excel, Jupyter, Git , Colab
+- **Cloud Platforms**: AWS (Amazon Web Services), Snowflake
+ **ETL Tools**: AWS Glue, Apache Airflow, DBT (Data Build Tool)
+ **Databases**: Amazon Redshift, Snowflake, MySQL, SparkSQL, Bigquery
+ **Data Warehousing**: Data migration, data modeling, data transformation using AWS services (Redshift, S3, Glue, and Athena)
+ **Automation**: AWS CloudFormation, AWS Lambda, Terraform, Step Functions
+ **Collaboration**: Agile Methodologies, Cross-functional Teams, Stakeholder Communication
 
 ## Projects
 - [TLC NYC Dataset Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/NYC_TLC_Project.ipynb)
