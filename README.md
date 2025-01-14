@@ -12,8 +12,9 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 
 ## Projects
 - [TLC NYC Dataset Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/NYC_TLC_Project.ipynb)
-- [Uber Data Analysis Project](https://github.com/devarshe/UBER/blob/main/Uber%20project%20Gaurav.ipynb)
+- [Uber Data Analysis Project](https://github.com/devarshe/Data-Analytics-End-to-End-Projects/blob/b253d083b3e47af4e2123fa837dd42decc0b280d/Uber%20Project%20(Python)/Uber%20project.ipynb)
 - [Cafe Shop Sales Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/cafe%20shop%20MS%20SQL%20code.sql)
+- [Netflix EDA Project](https://github.com/devarshe/Data-Analytics-End-to-End-Projects/blob/b253d083b3e47af4e2123fa837dd42decc0b280d/NETFLIX%20EDA%2BDashboard%20(Python%20%2B%20Power%20BI)/OTT%20Project%20Python%20code.ipynb)
 
 ## Contact Me
 - 📧 Email: devarsheegaurav@gmail.com
