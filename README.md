@@ -10,11 +10,11 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - **Data Visualization**: Matplotlib, Seaborn, Power BI
 - **Tools**: Excel, Jupyter, Git , Colab
 - **Cloud Platforms**: AWS (Amazon Web Services), Snowflake
- **ETL Tools**: AWS Glue, Apache Airflow, DBT (Data Build Tool)
- **Databases**: Amazon Redshift, Snowflake, MySQL, SparkSQL, Bigquery
- **Data Warehousing**: Data migration, data modeling, data transformation using AWS services (Redshift, S3, Glue, and Athena)
- **Automation**: AWS CloudFormation, AWS Lambda, Terraform, Step Functions
- **Collaboration**: Agile Methodologies, Cross-functional Teams, Stakeholder Communication
+- **ETL Tools**: AWS Glue, Apache Airflow, DBT (Data Build Tool)
+- **Databases**: Amazon Redshift, Snowflake, MySQL, SparkSQL, Bigquery
+- **Data Warehousing**: Data migration, data modeling, data transformation using AWS services (Redshift, S3, Glue, and Athena)
+- **Automation**: AWS CloudFormation, AWS Lambda, Terraform, Step Functions
+- **Collaboration**: Agile Methodologies, Cross-functional Teams, Stakeholder Communication
 
 ## Projects
 - [TLC NYC Dataset Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/NYC_TLC_Project.ipynb)
