@@ -1,7 +1,7 @@
 # Hi there, I'm Devarshee Gaurav Das 👋
 
 ## About Me
-I'm a passionate Data Analyst with expertise in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, and data visualization. I am currently looking for roles that involve SQL, Python, and Power BI.
+I'm a passionate Data Engineer with expertise in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, and data visualization. I am currently looking for roles that involve SQL, Python, and Power BI.
 Expanding my expertise in Machine Learning models and Azure Cloud.
 
 ## Skills
